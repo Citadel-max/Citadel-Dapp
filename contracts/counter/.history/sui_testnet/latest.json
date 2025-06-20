@@ -1,0 +1,11 @@
+{
+  "projectName": "counter",
+  "network": "testnet",
+  "packageId": "0x9b540f0ceb6e0db51524459513cdc7a30429842fec9a1275fc5232c2443ac626",
+  "schemaId": "0x5423faa2e160f5811c856778bf701beecdcf522d0907ed6f42bf11effcb826ee",
+  "schemas": {
+    "value": "StorageValue<u32>"
+  },
+  "upgradeCap": "0x72f909a344d56d6c1a2dc59757d2cb093866664d1342f7a94c8b62db4981e39a",
+  "version": 1
+}
